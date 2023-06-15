@@ -1,11 +1,10 @@
 # Data Scientist
 
-
-## 🧠 Education
+### 🧠 Education
 - Postgraduate Diploma, Statistics and Data Science | FLAME University,Pune,India(_May 2023_)
 - Bachelors, Economics and Applied Mathematics | FLAME University,Pune,India(_May 2022_)
 
-## 👩‍💻 Projects
+### 👩‍💻 Projects
 
 ### [Movie recommendation engine using Machine learning]()
 - Using Movielens dataset, built a movie recommendation algorithm based on collaborative filtering technique.
