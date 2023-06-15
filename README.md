@@ -16,7 +16,7 @@
 - Carried out a business analytics project to forecast Incoming health examinations to Abeville(USA) health centers using Fargo historical data.
 - Employed Time-Series analysis,ARIMA(0,1,1) model.
 - Skills : Data preprocessing, Data Imputation, Time-Series analysis, R, Statistical modelling, Evaluation and validation metrics, Data visualisation\(ggplot2\)
-  <img src="" width="500">
+  <img src="https://github.com/kasidonepalli/portfolio/blob/main/fargodemand.png" width="500">
 
 ### [Dissertation project- Associations between Financial Inclusion and Healthcare Accessibility in India]()
 - Using the rich NFHS-5 dataset, this study is being conducted under a harvard affiliate professor(Dr.Sunil Rajpal) and is due for publication
