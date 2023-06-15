@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Projects
 
-### [Movie recommendation engine using Machine learning]()
+### [Movie recommendation engine using Machine learning](https://github.com/kasidonepalli/Movie_recommendation_ML)
 - Using Movielens dataset, built a movie recommendation algorithm based on collaborative filtering technique.
 - Investigated recommendation model accuracy using Singular Value Decomposition (SVD), K-Nearest Neighbors, Co-Clustering and a Neural Network Approach.
 - Dependencies: Python, pandas, numpy, scikit-learn, scikit-surprise, matplotlib, seaborn , jupyter notebook.
@@ -16,6 +16,7 @@
 - Carried out a business analytics project to forecast Incoming health examinations to Abeville(USA) health centers using Fargo historical data.
 - Employed Time-Series analysis,ARIMA(0,1,1) model.
 - Skills : Data preprocessing, Data Imputation, Time-Series analysis, R, Statistical modelling, Evaluation and validation metrics, Data visualisation\(ggplot2\)
+  <img src="" width="500">
 
 ### [Dissertation project- Associations between Financial Inclusion and Healthcare Accessibility in India]()
 - Using the rich NFHS-5 dataset, this study is being conducted under a harvard affiliate professor(Dr.Sunil Rajpal) and is due for publication
