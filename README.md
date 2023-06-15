@@ -1,7 +1,5 @@
 # Data Scientist
 
-## 🛠 Skills
-Python, R, SQL, STATA, Tableau
 
 ## 🧠 Education
 - Postgraduate Diploma, Statistics and Data Science | FLAME University,Pune,India(_May 2023_)
