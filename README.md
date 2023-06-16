@@ -1,4 +1,4 @@
-# Data Scientist
+## Data Scientist
 
 ### 🧠 Education
 - Postgraduate Diploma, Statistics and Data Science | FLAME University,Pune,India(_May 2023_)
@@ -22,7 +22,7 @@
 - Using the rich NFHS-5 dataset, this study is being conducted under a harvard affiliate professor(Dr.Sunil Rajpal) and is due for publication
 - Deployed Multivariable Logistic regression analysis
 - Skills : STATA programming, Crosstabs, Exploratory Data analysis,Model Specification, Logisitc regression, Spatial maps, Data visualisations, Research writing
-  <img src="" width="500">
+  <img src="https://github.com/kasidonepalli/portfolio/blob/main/spatialmaps.png" width="500">
 
 
 ### [Understanding and evaluating the perceptions of OTT platforms amongst the Indian youth]()
