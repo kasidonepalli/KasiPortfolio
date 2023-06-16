@@ -22,6 +22,8 @@
 - Using the rich NFHS-5 dataset, this study is being conducted under a harvard affiliate professor(Dr.Sunil Rajpal) and is due for publication
 - Deployed Multivariable Logistic regression analysis
 - Skills : STATA programming, Crosstabs, Exploratory Data analysis,Model Specification, Logisitc regression, Spatial maps, Data visualisations, Research writing
+  <img src="" width="500">
+
 
 ### [Understanding and evaluating the perceptions of OTT platforms amongst the Indian youth]()
   - Conducted a qualitative study(in-depth interview approach) aimed to understand and evaluate the perception of OTT (over-the-top) platforms amongst Indian youth.
