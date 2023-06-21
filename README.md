@@ -1,8 +1,9 @@
-## Data Scientist
+# Data Scientist
+-Kasi Donepalli
+## About me
 
-### 🧠 Education
-- Postgraduate Diploma, Statistics and Data Science | FLAME University,Pune,India(_May 2023_)
-- Bachelors, Economics and Applied Mathematics | FLAME University,Pune,India(_May 2022_)
+## 🛠 Skills
+
 
 ### 👩‍💻 Projects
 
@@ -35,7 +36,11 @@
 - Deployed probit regression analysis.
 - Positive correlation observed between internet access and Health Insurance.
 - Skills : STATA Programming, Descriptive Statistics, Exploratory Data analysis, Model specification, Diagnostic checks, predictive analytics.
-- 
+
+### 🧠 Education
+- Postgraduate Diploma, Statistics and Data Science | FLAME University,Pune,India(_May 2023_)
+- Bachelors, Economics and Applied Mathematics | FLAME University,Pune,India(_May 2022_)
+
 
 
   
