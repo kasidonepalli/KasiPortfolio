@@ -20,15 +20,13 @@ Python|STATA|Tableau|Machine Learning|Advanced Econometrics|Economic analysis|Co
 - Carried out a business analytics project to forecast Incoming health examinations to Abeville(USA) health centers using Fargo historical data.
 - Employed Time-Series analysis,ARIMA(0,1,1) model.
 - Skills : Data preprocessing, Data Imputation, Time-Series analysis, R, Statistical modelling, Evaluation and validation metrics, Data visualisation\(ggplot2\)
-
-  <img src="https://github.com/kasidonepalli/portfolio/blob/main/fargodemand.png" width="500">
+ <br> <img src="https://github.com/kasidonepalli/portfolio/blob/main/fargodemand.png" width="500">
 
 ### [Dissertation project- Associations between Financial Inclusion and Healthcare Accessibility in India](https://github.com/kasidonepalli/Financial-Inclusion-and-Healthcare-Accessibility)
 - Using the rich NFHS-5 dataset, this study is being conducted under a harvard affiliate professor(Dr.Sunil Rajpal) and is due for publication
 - Deployed Multivariable Logistic regression analysis
 - Skills : STATA programming, Crosstabs, Exploratory Data analysis,Model Specification, Logisitc regression, Spatial maps, Data visualisations, Research writing
-  
-  <img src="https://github.com/kasidonepalli/portfolio/blob/main/spatialmaps.png" width="500">
+  <br><img src="https://github.com/kasidonepalli/portfolio/blob/main/spatialmaps.png" width="500">
 
 
 ### [Understanding and evaluating the perceptions of OTT platforms amongst the Indian youth](https://github.com/kasidonepalli/Perceptions-of-OTT)
