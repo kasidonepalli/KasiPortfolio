@@ -1,13 +1,13 @@
 # Portfolio
-### 🚀 About Me
+## 🚀 About Me
 Hi, I'm kasi! 👋
 <br> I'm a budding Data Scientist, a highly inquisitive individual with an **ambitious** and **relentless** attitude towards life. A **Challenge-Seeker** and a **life 
 long learner**.Data is the new oil, and I am curious about streamling data to drive business results. Experienced in data analytics with real life **project experience** in economics and business analytics with applications of Machine learning and Econometrics. I have 1+ years of experience as a data analyst and deployed analytics and visualisation tools such as Tableau to enable **business decision making**. 
   
-### 🛠 Skills
-- Python STATA Tableau Machine Learning Advanced Econometrics Economic and financial analysis Consumer Insight mining
-- 
-### 👩‍💻 Projects
+## 🛠 Skills
+- Python|STATA|Tableau|Machine Learning|Advanced Econometrics|Economic and financial analysis|Consumer Insight mining
+  
+## 👩‍💻 Projects
 
 ### [Movie recommendation engine using Machine learning](https://github.com/kasidonepalli/Movie_recommendation_ML)
 - Using Movielens dataset, built a movie recommendation algorithm based on collaborative filtering technique.
@@ -41,7 +41,7 @@ long learner**.Data is the new oil, and I am curious about streamling data to dr
 - Positive correlation observed between internet access and Health Insurance.
 - Skills : STATA Programming, Descriptive Statistics, Exploratory Data analysis, Model specification, Diagnostic checks, predictive analytics.
 
-### 🧠 Education
+## 🧠 Education
 - Postgraduate Diploma, Statistics and Data Science | FLAME University,Pune,India(_May 2023_)
 - Bachelors, Economics and Applied Mathematics | FLAME University,Pune,India(_May 2022_)
 
