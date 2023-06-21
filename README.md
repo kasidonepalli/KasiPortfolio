@@ -2,11 +2,12 @@
 
 ### 🚀 About Me
 Hi, I'm kasi! 👋
-<br> I'm a budding Data Scientist, a highly inquisitive individual with an ambitious and relentless attitude towards life. A Challenge-seeker and a life long learner.
-<br> Data is the new oil, and I am curious about streamling data to drive business results. Experienced in data analytics with real life project experience in economics and Business analytics with applications of Machine learning and Econometrics. I have 1+ years of experience as a data analyst and deployed analytics and visualisation tools such as Tableau to enable business decision making. 
+<br> I'm a budding Data Scientist, a highly inquisitive individual with an ambitious and relentless attitude towards life. A Challenge-Seeker and a life long learner.
+Data is the new oil, and I am curious about streamling data to drive business results. Experienced in data analytics with real life project experience in economics and business analytics with applications of Machine learning and Econometrics. I have 1+ years of experience as a data analyst and deployed analytics and visualisation tools such as Tableau to enable business decision making. 
   
 
 ### 🛠 Skills
+- Python | STATA | Tableau | Machine Learning | Advanced Econometrics | Economic and financial analysis | Consumer Insight mining
 
 
 ### 👩‍💻 Projects
