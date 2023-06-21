@@ -1,6 +1,4 @@
-# Data Scientist
-- Kasi Donepalli
-## About me
+## 🚀 About Me
 
 ## 🛠 Skills
 
