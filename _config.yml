@@ -1,10 +1,10 @@
-theme: minima
-title: Data Scientist
-author: Kasi Donepalli
-logo: https://github.com/kasidonepalli/portfolio/blob/main/kasi_photo.jpeg
+#theme: minima
+#title: Data Scientist
+#author: Kasi Donepalli
+#logo: https://github.com/kasidonepalli/portfolio/blob/main/kasi_photo.jpeg
 #description: Analytics portfolio
 #show_downloads: true
-minima:
+#minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
@@ -21,5 +21,5 @@ minima:
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-     - { platform: linkedin,       user_url: "www.linkedin.com/in/kasidonepalli" }
+  #- { platform: linkedin,       user_url: "www.linkedin.com/in/kasidonepalli" }
 
