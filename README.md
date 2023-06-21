@@ -1,6 +1,7 @@
-## 🚀 About Me
 
-## 🛠 Skills
+### 🚀 About Me
+
+### 🛠 Skills
 
 
 ### 👩‍💻 Projects
