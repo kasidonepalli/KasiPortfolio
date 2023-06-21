@@ -6,8 +6,7 @@ long learner**.Data is the new oil, and I am curious about streamling data to dr
   
 ### 🛠 Skills
 - Python STATA Tableau Machine Learning Advanced Econometrics Economic and financial analysis Consumer Insight mining
-
-
+- 
 ### 👩‍💻 Projects
 
 ### [Movie recommendation engine using Machine learning](https://github.com/kasidonepalli/Movie_recommendation_ML)
@@ -16,14 +15,14 @@ long learner**.Data is the new oil, and I am curious about streamling data to dr
 - Dependencies: Python, pandas, numpy, scikit-learn, scikit-surprise, matplotlib, seaborn , jupyter notebook.
 - Skills : Data preprocessing, Data wrangling, Pipelines, hyperparameter tuning, CrossVal and accuracy scores, Deep learning.
 
-### [Demand forecasting - Time series analysis]()
+### [Demand forecasting - Time series analysis](https://github.com/kasidonepalli/Demand-forecasting-Time-Series-analysis)
 - Carried out a business analytics project to forecast Incoming health examinations to Abeville(USA) health centers using Fargo historical data.
 - Employed Time-Series analysis,ARIMA(0,1,1) model.
 - Skills : Data preprocessing, Data Imputation, Time-Series analysis, R, Statistical modelling, Evaluation and validation metrics, Data visualisation\(ggplot2\)
 - 
   <img src="https://github.com/kasidonepalli/portfolio/blob/main/fargodemand.png" width="500">
 
-### [Dissertation project- Associations between Financial Inclusion and Healthcare Accessibility in India]()
+### [Dissertation project- Associations between Financial Inclusion and Healthcare Accessibility in India](https://github.com/kasidonepalli/Financial-Inclusion-and-Healthcare-Accessibility)
 - Using the rich NFHS-5 dataset, this study is being conducted under a harvard affiliate professor(Dr.Sunil Rajpal) and is due for publication
 - Deployed Multivariable Logistic regression analysis
 - Skills : STATA programming, Crosstabs, Exploratory Data analysis,Model Specification, Logisitc regression, Spatial maps, Data visualisations, Research writing
@@ -31,12 +30,12 @@ long learner**.Data is the new oil, and I am curious about streamling data to dr
   <img src="https://github.com/kasidonepalli/portfolio/blob/main/spatialmaps.png" width="500">
 
 
-### [Understanding and evaluating the perceptions of OTT platforms amongst the Indian youth]()
+### [Understanding and evaluating the perceptions of OTT platforms amongst the Indian youth](https://github.com/kasidonepalli/Perceptions-of-OTT)
   - Conducted a qualitative study(in-depth interview approach) aimed to understand and evaluate the perception of OTT (over-the-top) platforms amongst Indian youth.
   - The sub objectives included identifying factors that influence the utilization of OTT platforms and content preferences in OTT platforms among the youth, understanding the user experience of the OTT platforms and to assess the trend of OTT platform use among young people.
   - Skills : Qualitative analysis, In-depth interviews and surverys, Thematic analysis, consumer segmentation, Reduct software
 
-### [The effect of access to internet on Health Insurance demand in India’s rural versus urban areas in a modern context]()
+### [The effect of access to internet on Health Insurance demand in India’s rural versus urban areas in a modern context](https://github.com/kasidonepalli/Internet-and-Health-Insurance-demand)
 - A cross-section study conducted on IHDS-II data to explore the effect of access to internet on Health Insurance demand in India.
 - Deployed probit regression analysis.
 - Positive correlation observed between internet access and Health Insurance.
