@@ -2,10 +2,9 @@
 
 ### 🚀 About Me
 Hi, I'm kasi! 👋
-<br> I'm a budding Data Scientist, a highly inquisitive individual with an ambitious and relentless attitude towards life. A Challenge-Seeker and a life long learner.
-Data is the new oil, and I am curious about streamling data to drive business results. Experienced in data analytics with real life project experience in economics and business analytics with applications of Machine learning and Econometrics. I have 1+ years of experience as a data analyst and deployed analytics and visualisation tools such as Tableau to enable business decision making. 
+<br> I'm a budding Data Scientist, a highly inquisitive individual with an **ambitious** and **relentless** attitude towards life. A **Challenge-Seeker** and a **life 
+long learner**.Data is the new oil, and I am curious about streamling data to drive business results. Experienced in data analytics with real life **project experience** in economics and business analytics with applications of Machine learning and Econometrics. I have 1+ years of experience as a data analyst and deployed analytics and visualisation tools such as Tableau to enable **business decision making**. 
   
-
 ### 🛠 Skills
 - Python | STATA | Tableau | Machine Learning | Advanced Econometrics | Economic and financial analysis | Consumer Insight mining
 
@@ -22,12 +21,14 @@ Data is the new oil, and I am curious about streamling data to drive business re
 - Carried out a business analytics project to forecast Incoming health examinations to Abeville(USA) health centers using Fargo historical data.
 - Employed Time-Series analysis,ARIMA(0,1,1) model.
 - Skills : Data preprocessing, Data Imputation, Time-Series analysis, R, Statistical modelling, Evaluation and validation metrics, Data visualisation\(ggplot2\)
+- 
   <img src="https://github.com/kasidonepalli/portfolio/blob/main/fargodemand.png" width="500">
 
 ### [Dissertation project- Associations between Financial Inclusion and Healthcare Accessibility in India]()
 - Using the rich NFHS-5 dataset, this study is being conducted under a harvard affiliate professor(Dr.Sunil Rajpal) and is due for publication
 - Deployed Multivariable Logistic regression analysis
 - Skills : STATA programming, Crosstabs, Exploratory Data analysis,Model Specification, Logisitc regression, Spatial maps, Data visualisations, Research writing
+  
   <img src="https://github.com/kasidonepalli/portfolio/blob/main/spatialmaps.png" width="500">
 
 
