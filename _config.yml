@@ -1,8 +1,7 @@
 theme: minima
 title: Data Scientist
-author: 
-  name: Kasi Donepalli
-  email: kasi.donepalli@gmail.com
+author: Kasi Donepalli
+logo: https://github.com/kasidonepalli/portfolio/blob/main/kasi_photo.jpeg
 #description: Analytics portfolio
 #show_downloads: true
 
