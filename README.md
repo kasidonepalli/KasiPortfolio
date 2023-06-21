@@ -1,5 +1,9 @@
+### Portfolio
 
 ### 🚀 About Me
+Hi, I'm kasi! 👋
+I'm a budding Data Scientist, a highly inquisitive individual with an ambitious and relentless attitude towards life. 
+  
 
 ### 🛠 Skills
 
