@@ -1,4 +1,4 @@
-## 🚀 About Me
+## 🚀 About Me[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/kasidonepalli)
 Hi, I'm kasi! 👋
 <br> I'm a budding Data Scientist, a highly inquisitive individual with an **ambitious** and **relentless** attitude towards life. A **Challenge-Seeker** and a **life 
 long learner**.Data is the new oil, and I am curious about streamling data to drive business results. Experienced in data analytics with real life **project experience** in economics and business analytics with applications of Machine learning and Econometrics. I have 1+ years of experience as a data analyst and deployed analytics and visualisation tools such as Tableau to enable **business decision making**. 
