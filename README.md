@@ -1,5 +1,5 @@
 # Data Scientist
--Kasi Donepalli
+- Kasi Donepalli
 ## About me
 
 ## 🛠 Skills
