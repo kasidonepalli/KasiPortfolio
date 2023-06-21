@@ -2,7 +2,8 @@
 
 ### 🚀 About Me
 Hi, I'm kasi! 👋
-I'm a budding Data Scientist, a highly inquisitive individual with an ambitious and relentless attitude towards life. 
+I'm a budding Data Scientist, a highly inquisitive individual with an ambitious and relentless attitude towards life. A Challenge-seeker and a life long learner.
+Data is the new oil, and I am curious about streamling data to drive business results. Experienced in data analytics with real life project experience in economics and Business analytics with applications of Machine learning and Econometrics. I have 1+ years of experience as a data analyst and deployed analytics and visualisation tools such as Tableau to enable business decision making. 
   
 
 ### 🛠 Skills
