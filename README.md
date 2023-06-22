@@ -10,7 +10,7 @@ Python|STATA|Tableau|Machine Learning|Advanced Econometrics|Economic analysis|Co
   
 ## 👩‍💻 Projects
 
-### [Movie recommendation engine using Machine learning](https://github.com/kasidonepalli/Movie_recommendation_ML)
+### 🔗[Movie recommendation engine using Machine learning](https://github.com/kasidonepalli/Movie_recommendation_ML)
 - Using Movielens dataset, built a movie recommendation algorithm based on collaborative filtering technique.
 - Investigated recommendation model accuracy using Singular Value Decomposition (SVD), K-Nearest Neighbors, Co-Clustering and a Neural Network Approach.
 - Dependencies: Python, pandas, numpy, scikit-learn, scikit-surprise, matplotlib, seaborn , jupyter notebook.
